@@ -25,10 +25,10 @@ We welcome contributions from other students and faculty members. If you'd like 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the **[LICENSE]**(LICENSE.md) file for details.
 
 ## Contact Information
 
 For any queries or suggestions, please reach out:
 
-- Our E-mail - [usgnavigation@gmail.com](mailto:usgnavigation@gmail.com)
+- **Our E-mail** - [usgnavigation@gmail.com](mailto:usgnavigation@gmail.com)
