@@ -25,7 +25,7 @@ We welcome contributions from other students and faculty members. If you'd like 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
 
 ## Contact Information
 
