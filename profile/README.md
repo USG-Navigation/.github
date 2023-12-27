@@ -14,9 +14,6 @@ Campus Navigator is a web-based navigation website designed to assist students i
 
 ## Technology Stack
 
-- **Vue.js**: A progressive JavaScript framework used for building user interfaces.
-- **TypeScript**: An open-source language that builds on JavaScript by adding static type definitions.
-- **YAML**: A human-readable data serialization standard used for configuration files.
 - **Google Maps API**: Utilized for creating a customized, interactive map experience.
 
 ## Contributing
