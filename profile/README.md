@@ -2,7 +2,7 @@
 
 ## Overview
 
-Campus Navigator is a web-based navigation website designed to assist students in easily locating and navigating to various facilities and destinations within The Universities of Shady Grove. Developed by Aaron Tekle, Kevin Chen, Richard Lac, Victor Nguyen, and Matthew Chin, this application combines intuitive design with the latest web technologies to offer a seamless user experience.
+Campus Navigator is a web-based navigation website designed to assist students in easily locating and navigating to various facilities and destinations within The Universities of Shady Grove. Developed by Aaron Tekle, Kevin Chen, Richard Lac, Victor Nguyen, and Matthew Chin.
 
 ## Key Features
 
